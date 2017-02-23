@@ -795,7 +795,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #000;
+   background: #000 url(../imgs/abcd.jpg) no-repeat center center;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
